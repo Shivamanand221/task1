@@ -18,3 +18,8 @@ npx create-strapi-app my-app --quickstart
 ```
 
 open the following URL http://localhost:1337/admin
+
+### 2. Login and do following things
+- Explore the folder structure 
+- Start the admin panel
+- Create a sample content type.
